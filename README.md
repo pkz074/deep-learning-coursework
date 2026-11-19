@@ -1,6 +1,6 @@
 # Deep Learning Coursework
 
-Deep learning assignments and individual challenges by João Pedro Minari, covering data preparation, neural network fundamentals, model selection, convolutional networks, and residual connections.
+Deep learning assignments and individual challenges by me, covering data preparation, neural network fundamentals, model selection, convolutional networks, and residual connections.
 
 The notebooks contain code, written explanations, and saved experiment outputs. Group assignments retain their contributor credits and division of work.
 
