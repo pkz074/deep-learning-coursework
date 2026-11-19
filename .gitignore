@@ -221,3 +221,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Coursework datasets and generated training artifacts
+**/data/
+**/mnist_data/
+**/cifar10_data/
+**/MNIST/
+**/cifar-10-batches-py/
+**/artifacts/
+**/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+*.npz
+*.tar.gz
