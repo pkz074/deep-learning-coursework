@@ -26,8 +26,6 @@ Group contributors: **Titobiloluwa Odufuye, Logan Yee, and João Pedro Minari**.
 | [06 — Conv1D on MNIST-1D](challenges/06-mnist1d-conv1d/challenge.ipynb) | Classifying one-dimensional signals with convolutional networks |
 | [07 — Residual connections](challenges/07-residual-connections/challenge.ipynb) | Comparing plain and residual CNNs |
 
-The data-preparation notebook is placed first for navigation; its original file does not specify a challenge number. Other challenge numbers follow the supplied filenames.
-
 ## Running the notebooks
 
 Use a local Python environment with Jupyter, or upload a notebook to Google Colab. Open each notebook from its own project folder and run cells in order so relative data and output paths resolve correctly.
